@@ -149,7 +149,7 @@ nav.scrolled {
 .shop-bottom {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
   margin-top: 5%;
 }
 .shop-bottom p {
@@ -481,6 +481,7 @@ text-align: left;
   border-radius: 10px;
   margin: 13px;
   flex-basis: 30%;
+  flex-wrap: wrap;
   
 }
 .product-card img{
