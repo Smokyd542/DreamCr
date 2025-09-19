@@ -485,7 +485,7 @@ text-align: left;
   
 }
 .product-card img{
-  height: fit-content;
+  max-height: 70px;
 }
 .product-card h2 {
   font-weight: 400;
