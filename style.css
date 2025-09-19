@@ -485,7 +485,8 @@ text-align: left;
   
 }
 .product-card img{
-  height: fit-content;
+  height: auto;
+  max-width: 100%;
 }
 .product-card h2 {
   font-weight: 400;
@@ -531,7 +532,8 @@ text-align: left;
   
 }
 .product-card img{
-  height: fit-content;
+  height: auto;
+  max-width: 100%;
 }
 .product-card h2 {
   font-weight: 400;
